@@ -1,4 +1,4 @@
 import streamlit
 
-streamlit.title('Welcome to My World!!')
+streamlit.title('Welcome to My World')
 
